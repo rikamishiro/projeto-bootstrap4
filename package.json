@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "Júlia dos Santos Silveira",
+  "author": "Júlia e Guilherme",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
