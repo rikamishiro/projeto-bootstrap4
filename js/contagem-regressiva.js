@@ -1,5 +1,5 @@
 // pegar data da contagem
-let contagemAnoNovo = new Date('jan 1, 2023 00:00:00').getTime();
+let contagemAnoNovo = new Date('jan 1, 2024 00:00:00').getTime();
 let x = setInterval(function() {
 
   // pegar o tempo atual
